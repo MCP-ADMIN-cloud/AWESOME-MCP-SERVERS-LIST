@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://aident.ai/favicon.ico" alt="Aident Logo" /> [Aident Loadout](https://aident.ai) - Remote MCP (streamable HTTP, OAuth) that connects Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ expert-built Skills through one setup ([MCP endpoint](https://loadout.aident.ai/mcp), [GitHub](https://github.com/Aident-AI/aident-skill)).
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
